@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthyt&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthyt" /> </p>
 
-- 🔭 I’m currently working on [musicapp](https://github.com/Hemanthyt/musicapp)
+- 🔭 I’m currently completed [musicapp](https://github.com/Hemanthyt/musicapp)
 
 - 🌱 I’m currently learning **Mvvm Architecture,Mern**
 
