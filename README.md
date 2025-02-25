@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hemanth Kumar S J and I'm a Web & Mobile App Developer passionate about building scalable, user-friendly applications. I specialize in MERN stack, Flutter, FastAPI, and PostgreSQL, creating seamless experiences across web and mobile platforms.<br><br>🚀 I work on projects ranging from AI-powered assistants, job portals, and e-governance systems to interactive learning and security assessment tools.<br><br>💡 Always exploring cutting-edge tech, AI integration, and performance optimization.<br><br>🔗 Let's connect and innovate together!</h2>
+<h3 align="left">Hi 👋! My name is Hemanth Kumar S J and I'm a Web & Mobile App Developer passionate about building scalable, user-friendly applications. I specialize creating seamless experiences across web and mobile platforms.<br><br>🚀 I work on projects ranging from AI-powered assistants, job portals, and e-governance systems to interactive learning and security assessment tools.<br><br>💡 Always exploring cutting-edge tech, AI integration, and performance optimization.<br><br>🔗 Let's connect and innovate together!</h3>
 
 ###
 
